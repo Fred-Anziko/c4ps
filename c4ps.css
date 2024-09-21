@@ -8,30 +8,25 @@ body {
 
 .container {
   max-width: 800px;
-  margin: 25% auto;
   border-radius: 25%;
   padding: 20px;
   background-color: rgb(6, 59, 57);
 }
 
 h1, h2, h3 {
-  margin: 25%;
   text-align: center;
 }
 
 p {
-  margin: 25%;
   text-align: center;
 }
 
 .image-code, .qr-code {
   width: 50%;
   height: auto;
-  margin: 20px auto;
 }
 
 .contact-info {
-  margin: 25%;
   text-align: center;
   border-radius: 25%;
   background-color: rgb(6, 59, 57);
