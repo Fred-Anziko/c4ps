@@ -9,6 +9,7 @@ body {
 .container {
   border-radius: 25%;
   width: 100%;
+  text-align: center;
   background-color: rgb(6, 59, 57);
 }
 
