@@ -8,6 +8,7 @@ body {
 
 .container {
   border-radius: 25%;
+  width: 100%;
   background-color: rgb(6, 59, 57);
 }
 
