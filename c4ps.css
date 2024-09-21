@@ -8,6 +8,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
+  background-color: #063B39;
 }
 
 h1, h2, h3 {
@@ -29,6 +30,7 @@ p {
 .contact-info {
   margin-top: 40px;
   text-align: center;
+  background-color: #063B39;
 }
 
 ul {
