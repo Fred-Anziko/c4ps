@@ -7,18 +7,18 @@ body {
 
 .container {
   max-width: 800px;
-  margin: 0 auto;
+  margin: 25% auto;
   padding: 20px;
   background-color: rgb(6, 59, 57);
 }
 
 h1, h2, h3 {
-  margin-bottom: 20px;
+  margin: 25%;
   text-align: center;
 }
 
 p {
-  margin-bottom: 30px;
+  margin: 25%;
   text-align: center;
 }
 
@@ -29,7 +29,7 @@ p {
 }
 
 .contact-info {
-  margin-top: 40px;
+  margin: 25%;
   text-align: center;
   background-color: rgb(6, 59, 57);
 }
@@ -44,6 +44,26 @@ li {
   margin-bottom: 10px;
   text-align: center;
 }
+/* Button styles */
+button,
+a {
+  background-color: #4CAF50; /* Green */
+  color: white;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+/* Hover effect */
+button:hover,
+a:hover {
+  background-color: #3e8e41; /* Darker green on hover */
+}
+
 @media (max-width: 768px) {
   .image-code, .qr-code {
     width: 50%;
