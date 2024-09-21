@@ -21,7 +21,7 @@ p {
 }
 
 .image-code, .qr-code {
-  width: 100%;
+  width: 50%;
   height: auto;
   margin: 20px auto;
 }
@@ -53,7 +53,7 @@ a:hover {
 
 @media (max-width: 768px) {
   .image-code, .qr-code {
-    width: 100%;
+    width: 50%;
     height: auto;
   }
 }
