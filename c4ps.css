@@ -9,7 +9,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-  background-color: gray;
+  background-color: rgb(6, 59, 57);
 }
 
 h1, h2, h3 {
@@ -47,10 +47,10 @@ li {
 
 a {
   text-decoration: none;
-  color: #007bff;
+  color: rgb(6, 59, 57);
 }
 
-a:hover {
+background-color: rgb(6, 59, 57);a:hover {
   color: #0056b3;
 }
 
