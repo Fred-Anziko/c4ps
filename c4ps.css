@@ -2,12 +2,14 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  border-radius: 12%;
   background-color: gray;
 }
 
 .container {
   max-width: 800px;
   margin: 25% auto;
+  border-radius: 25%;
   padding: 20px;
   background-color: rgb(6, 59, 57);
 }
@@ -31,6 +33,7 @@ p {
 .contact-info {
   margin: 25%;
   text-align: center;
+  border-radius: 25%;
   background-color: rgb(6, 59, 57);
 }
 
@@ -45,7 +48,6 @@ li {
   text-align: center;
 }
 /* Button styles */
-button,
 a {
   background-color: #4CAF50; /* Green */
   color: white;
@@ -59,7 +61,6 @@ a {
 }
 
 /* Hover effect */
-button:hover,
 a:hover {
   background-color: #3e8e41; /* Darker green on hover */
 }
