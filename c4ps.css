@@ -5,6 +5,12 @@ body {
   border-radius: 25%;
   background-color: gray;
 }
+.responsive-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 
 .container {
   border-radius: 10%;
